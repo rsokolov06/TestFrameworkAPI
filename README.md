@@ -1,8 +1,9 @@
 # ApiFramework
 
 This API test framework contains 3 tests:
-- Basic authentication with token request.
-- Reset password functionality.
+- Test basic Pet deletion flow;
+- Test User password update;
+- Test Order creation.
 
 Technologies:
 - Java
