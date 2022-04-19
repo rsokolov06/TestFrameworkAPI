@@ -6,7 +6,6 @@ import org.testng.annotations.Test;
 import io.qameta.allure.Description;
 import io.qameta.allure.Severity;
 import io.qameta.allure.SeverityLevel;
-import io.restassured.response.Response;
 import petstore.qa.restapi.actions.PetAPI;
 import petstore.qa.restapi.datamodel.Pet;
 import petstore.qa.restapi.listeners.RetryAnalyzer;

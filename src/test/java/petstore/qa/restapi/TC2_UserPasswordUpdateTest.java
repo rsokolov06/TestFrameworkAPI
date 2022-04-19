@@ -7,9 +7,7 @@ import org.testng.annotations.Test;
 import io.qameta.allure.Description;
 import io.qameta.allure.Severity;
 import io.qameta.allure.SeverityLevel;
-import io.restassured.response.Response;
 import petstore.qa.restapi.actions.UserAPI;
-import petstore.qa.restapi.datamodel.ApiResponse;
 import petstore.qa.restapi.datamodel.User;
 import petstore.qa.restapi.listeners.RetryAnalyzer;
 
