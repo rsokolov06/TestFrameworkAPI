@@ -1,6 +1,6 @@
 # ApiFramework
 
-This API test framework contains 3 tests:
+This API test framework contains a set of 3 tests for Petstore application https://petstore.swagger.io/:
 - Test basic Pet deletion flow;
 - Test User password update;
 - Test Order creation.
